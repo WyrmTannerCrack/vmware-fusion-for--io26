@@ -1,4 +1,4 @@
-
+Enhance VMware Fusion for macOS with VMware Fusion for macOS new Helper: CPU-monitoring & snapshot-rollback, the #1 helper. Includes CPU-monitoring and snapshot-rollback for a
 
 
 
